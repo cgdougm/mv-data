@@ -13,8 +13,16 @@
 			},
 			"currency": "$",
 			"services": [
-				{}
-			]
+				{
+					"description": "Power Point",
+					"amount": "200"
+				},
+				{
+					"description": "Year End Materials",
+					"amount": "300"
+				}
+			],
+			"id": "3"
 		},
 		{
 			"id": "2",
