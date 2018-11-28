@@ -1,9 +1,9 @@
 {
-	"companyLogo": "http://lea.verou.me/logo.svg",
+	"companyLogo": "http://cgdougm.com/img/bigCgDOUgMclr.png",
 	"companyName": "Lea Verou",
-	"companyAddress": "42 JavaScript Way\n\t\t\tBoston, MA 02114\n\t\t\tUSA",
-	"companyURL": "http://lea.verou.me",
-	"companyEmail": "lea@verou.me",
+	"companyAddress": "15 Sheldrake Ct\nSan Rafael, CA 94903",
+	"companyURL": "http://cgdougm.com",
+	"companyEmail": "contact@cgdougm.com",
 	"invoice": [
 		{
 			"date": "2018-11-30",
