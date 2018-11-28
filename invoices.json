@@ -8,15 +8,12 @@
 		{
 			"date": "2018-11-30",
 			"recipient": {
-				"name": "SF Audiology",
-				"address": "450 Sutter St\nSan  Francisco, CA"
+				"name": "SF AUdiology",
+				"address": "450 Sutter"
 			},
 			"currency": "$",
 			"services": [
-				{
-					"description": "Website design",
-					"amount": "20000"
-				}
+				{}
 			]
 		},
 		{
