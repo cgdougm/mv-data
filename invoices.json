@@ -6,6 +6,17 @@
 	"companyEmail": "lea@verou.me",
 	"invoice": [
 		{
+			"date": "2018-11-30",
+			"recipient": {
+				"name": "SF Audiology",
+				"address": "450 Sutter St\nSan  Francisco, CA"
+			},
+			"currency": "$",
+			"services": [
+				{}
+			]
+		},
+		{
 			"id": "2",
 			"date": "2016-10-06",
 			"recipient": {
