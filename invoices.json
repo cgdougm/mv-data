@@ -13,7 +13,10 @@
 			},
 			"currency": "$",
 			"services": [
-				{}
+				{
+					"description": "Website design",
+					"amount": "20000"
+				}
 			]
 		},
 		{
